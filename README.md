@@ -4,7 +4,6 @@
 
 **Live site:** [teobodev.github.io/movie-lab](https://teobodev.github.io/movie-lab/)
 
-**Assignment report:** [Movie Lab Assignment 2 (PDF)](Movie_Lab_Assignment_2_Report.pdf)
 
 ![Movie Lab API key welcome screen](screenshots/connection.jpg)
 
