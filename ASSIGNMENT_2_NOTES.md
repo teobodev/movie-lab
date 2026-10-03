@@ -2,8 +2,10 @@
 
 ## Website link
 
-- Local preview used for verification: http://127.0.0.1:5173/movie-lab/
-- GitHub Pages deployment: not published from this workspace. The project is configured for the `/movie-lab/` base path; publish the repository's `dist/` output to GitHub Pages, then replace this line with the assigned public URL.
+- Live website: https://teobodev.github.io/movie-lab/
+- Repository: https://github.com/teobodev/movie-lab
+- Deployment: GitHub Pages, built and published by `.github/workflows/deploy-pages.yml` on pushes to `main`.
+- Deployment verification: the GitHub Actions build-and-deploy run completed successfully on October 3, 2026; the public site loaded at the URL above.
 
 ## What changed
 
@@ -42,3 +44,7 @@ The production files are written to `dist/`. Each visitor supplies their own TMD
 - `screenshots/empty.jpg` — zero-match state.
 - `screenshots/error.jpg` — invalid API-key error and retry state.
 - `screenshots/mobile.png` — 390px responsive welcome screen.
+
+## Maintainer
+
+Maintained by [teobodev](https://github.com/teobodev).
